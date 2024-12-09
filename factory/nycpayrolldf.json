@@ -1,0 +1,9 @@
+{
+	"name": "nycpayrolldf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7241dc6-18f4-40fa-933e-257fa8219696",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
